@@ -29,9 +29,9 @@
     "lint:fix": "eslint . --fix"
   },
   "peerDependencies": {
-    "@thzero/library_common": "^0.18 || ^0.19",
-    "@thzero/library_common_service": "^0.18 || ^0.19",
-    "@thzero/library_server": "^0.18 || ^0.19"
+    "@thzero/library_common": "^0.19",
+    "@thzero/library_common_service": "^0.19",
+    "@thzero/library_server": "^0.19"
   },
   "devDependencies": {
     "eslint": "^10.12.0"
